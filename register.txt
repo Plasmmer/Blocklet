@@ -1,0 +1,5 @@
+This file shows the Namecoin's transaction ID containing the hash of previous commit. It is for registering/copyright purposes.
+Namecoin transaction ID with previous commit hash: 
+Address/Name/Domain: runnycar.bit
+Owner: Plasmmer
+Namecoin transaction ID with Ownership proof: 274b5273acbce4cabab9de49cd6a0ea56b29a8a917fd4b46931c3939566a310f
