@@ -1,5 +1,5 @@
 This file shows the Namecoin's transaction ID containing the hash of previous commit. It is for registering/copyright purposes.
-Namecoin transaction ID with previous commit hash: 2448432c2b09ea911987633e8b9a6180f17cdcc67a099eac3210bee057dcd016
+Namecoin transaction ID with previous commit hash: a051f528b1298b209a462fb8970ac01eadac263da39862b22ed60f9b9e858cc9
 Address/Name/Domain: blocklet.bit
 Owner: Plasmmer
 Namecoin transaction ID with Ownership proof: bb38a0ab68de54b82c988e0ce3f059ba55731b9a82ebb1c9a95acaa5790acc8c
