@@ -1,0 +1,63 @@
+.header, header {
+    background: #fff!important;
+    height:65px;
+}
+
+body {
+    background:#000!important;
+}
+
+.logo,logo {
+    background: url(../icon.png) no-repeat no-repeat 3px 0px;
+    background-size: 38px;
+    color: #000!important;
+    padding: 0 0px 9px 52px;
+    line-height: 48px;
+}
+
+.content{top:65px}
+
+::selection {
+    background: #0066ff!important;
+    color: #fff!important;
+}
+
+.h0, h0 {
+    color: #0066ff!important;
+}
+
+.h1, h1 {
+    color: #0066ff!important;
+}
+
+.navmenu {
+    color: #0066ff!important;
+}
+.navmenu ul > li:hover {
+    background: #0066ff!important;
+}
+
+ul.tabs{border-bottom:1px solid #0066ff}
+ul.tabs li a:active{color:#0066ff80;border-bottom:4px solid #0066ff80}
+ul.tabs li.current a{color:#0066ff;border-bottom:4px solid #0066ff}
+
+button.color{background:#0066ff;color:#fff;font-weight:bold;padding:10px;font-size:16px}
+button.color:hover{background:#fff;color:#0066ff}
+
+.btn-primary {
+    background-color:#0066ff!important;
+}
+
+.footer,footer{background:#fff!important;}
+
+@media(max-width:8in){
+.header, header {
+    height:53px;
+}
+.logo, logo {
+    font-size: 25px;
+    line-height: 35px;
+    background-size: 32px;
+    padding: 0 0px 9px 42px;
+}
+}

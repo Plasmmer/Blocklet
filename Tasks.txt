@@ -1,0 +1,2 @@
+- updt LICENSE
+- repurpose it as a secondscreen for any phone, just as NeTVision Pad is for tablets/nintendo switch
